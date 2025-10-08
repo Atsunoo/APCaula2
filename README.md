@@ -1,26 +1,26 @@
-# Algoritmos e Programa√ß√£o de Computadores I
+# Algoritmos e ProgramaÁ„o de Computadores I
 
-Reposit√≥rio criado para as aulas te√≥ricas e atividades pr√°ticas da disciplina.
+RepositÛrio criado para as aulas teÛricas e atividades pr·ticas da disciplina.
 
-## Organiza√ß√£o do Reposit√≥rio
+## OrganizaÁ„o do RepositÛrio
 
-Este reposit√≥rio est√° organizado da seguinte forma:
-- **aulas/**: Pasta que cont√©m os c√≥digos das aulas te√≥ricas.
-- **praticas/**: Pasta que cont√©m os c√≥digos das atividades pr√°ticas.
+Este repositÛrio est· organizado da seguinte forma:
+- **aulas/**: Pasta que contÈm os cÛdigos das aulas teÛricas.
+- **praticas/**: Pasta que contÈm os cÛdigos das atividades pr·ticas.
 
-## Comandos B√°sicos do Shell no Linux
+## Comandos B·sicos do Shell no Linux
 
-Aqui est√£o alguns comandos b√°sicos do shell no Linux que podem ser √∫teis ao utilizar o git-bash.
+Aqui est„o alguns comandos b·sicos do shell no Linux que podem ser ˙teis ao utilizar o git-bash.
 
 1. Listagem de Arquivos e Pastas
 ```shell
 ls      # Lista arquivos e pastas da pasta atual
-ls -l   # Lista detalhadamente com informa√ß√µes adicionais
+ls -l   # Lista detalhadamente com informaÁıes adicionais
 ```
 2. Acesso a Pastas
 ```shell
 cd nome_da_pasta    # Acessa a pasta especificada
-cd ..               # Volta uma pasta (subir um n√≠vel)
+cd ..               # Volta uma pasta (subir um nÌvel)
 cd ~                # Volta diretamente para a pasta home
 ```
 3. Executar um Programa Local
@@ -32,9 +32,9 @@ cd ~                # Volta diretamente para a pasta home
 clear
 ```
 
-## Instru√ß√µes para Compilar um Programa C
+## InstruÁıes para Compilar um Programa C
 
-1. Acesse a Pasta com os C√≥digos
+1. Acesse a Pasta com os CÛdigos
 ```shell
 cd aulas
 cd aula01
