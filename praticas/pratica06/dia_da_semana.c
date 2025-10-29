@@ -8,13 +8,13 @@ int main ()  {
     scanf("%i", &dia);
 
     switch (dia) {
-        case 1: printf("Domingo!\n", dia); break;
-        case 2: printf("Segunda!\n", dia); break;
-        case 3: printf("Terça!\n", dia); break;
-        case 4: printf("Quarta!\n", dia); break;
-        case 5: printf("Quinta!\n", dia); break;
-        case 6: printf("Sexta!\n", dia); break;
-        case 7: printf("Sábado!\n", dia); break;
+        case 1: printf("Domingo!\n"); break;
+        case 2: printf("Segunda!\n"); break;
+        case 3: printf("Terça!\n"); break;
+        case 4: printf("Quarta!\n"); break;
+        case 5: printf("Quinta!\n"); break;
+        case 6: printf("Sexta!\n"); break;
+        case 7: printf("Sábado!\n"); break;
         default: printf("Número inválido, burro.");
     }
 
